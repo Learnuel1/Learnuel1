@@ -15,6 +15,8 @@ Are you searching for a talented software developer proficient in the MERN stack
 - RESTful APIs
 - Agile Development
 - Jest
+- C#
+- SQL
 
 With my strong expertise in JavaScript, React, Node.js, and MongoDB, I possess the skills necessary to build dynamic and scalable applications. My deep understanding of HTML5, CSS3, and Git allows me to create stunning user interfaces and ensure efficient version control.
 
