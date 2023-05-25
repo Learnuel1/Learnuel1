@@ -1,16 +1,31 @@
-### Hi there 👋
+## Outstanding MERN Stack Developer!
 
-<!--
-**Learnuel1/Learnuel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Are you searching for a talented software developer proficient in the MERN stack? Look no further! I'm **Linus Linus**, and I'm here to take your web applications to new heights.
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- HTML5
+- CSS3
+- Git
+- RESTful APIs
+- Agile Development
+- Jest
+
+With my strong expertise in JavaScript, React, Node.js, and MongoDB, I possess the skills necessary to build dynamic and scalable applications. My deep understanding of HTML5, CSS3, and Git allows me to create stunning user interfaces and ensure efficient version control.
+
+**What sets me apart?** My passion for delivering exceptional user experiences and my ability to tackle complex challenges head-on. I thrive in Agile development environments, collaborating seamlessly with cross-functional teams to bring ideas to life.
+
+My portfolio showcases my impressive projects, such as **JMS-backend**, where I leveraged the power of the MERN stack to develop a high-performing application with seamless data flow and intuitive user interactions.
+
+Backed by **years** of professional experience at, I've honed my skills in developing robust backends, designing interactive frontends, and crafting efficient RESTful APIs.
+
+I  have continued my learning journey through various certifications, ensuring that I stay up-to-date with the latest industry trends and best practices.
+
+**Ready to collaborate** on your next groundbreaking project? Let's connect! Reach out to me via email at **learnueltech@gmail.com** or connect with me on LinkedIn(https://www.linkedin.com/in/learnuel-zoe/) to discuss how I can contribute to your team's success.
+
+Don't miss the opportunity to work with a dedicated MERN stack developer who is committed to excellence and passionate about creating innovative web solutions. Together, we can turn your vision into reality!
